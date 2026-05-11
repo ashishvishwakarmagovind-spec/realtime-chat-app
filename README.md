@@ -74,12 +74,12 @@ npm run dev
 
 ## 📸 Screenshots & Demo
 The application features a clean, intuitive layout with a sidebar for conversations and a main chat area with rich interactive controls.
-<img width="136" height="183" alt="image" src="https://github.com/user-attachments/assets/47786d94-b2db-43c0-9b8c-2afcc778cafa" />
-<img width="146" height="183" alt="image" src="https://github.com/user-attachments/assets/2873b9d0-d911-45c6-b1fd-9fd039362a38" />
-<img width="241" height="182" alt="image" src="https://github.com/user-attachments/assets/4336f479-e1c0-4c27-b613-3c5196fa9698" />
-<img width="266" height="181" alt="image" src="https://github.com/user-attachments/assets/d245a90b-ae35-4b98-8cd0-711ff94cf980" />
-<img width="284" height="182" alt="image" src="https://github.com/user-attachments/assets/9e6757ac-7a18-48b0-b1ff-5b4524c7f6e4" />
-![Uploading image.png…]()
+<img width="183" height="183" alt="image" src="https://github.com/user-attachments/assets/47786d94-b2db-43c0-9b8c-2afcc778cafa" />
+<img width="183" height="183" alt="image" src="https://github.com/user-attachments/assets/2873b9d0-d911-45c6-b1fd-9fd039362a38" />
+<img width="251" height="182" alt="image" src="https://github.com/user-attachments/assets/4336f479-e1c0-4c27-b613-3c5196fa9698" />
+<img width="277" height="181" alt="image" src="https://github.com/user-attachments/assets/d245a90b-ae35-4b98-8cd0-711ff94cf980" />
+<img width="278" height="182" alt="image" src="https://github.com/user-attachments/assets/9e6757ac-7a18-48b0-b1ff-5b4524c7f6e4" />
+
 ## 🤝 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the platform.
 
